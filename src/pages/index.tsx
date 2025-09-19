@@ -34,7 +34,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Unlocking global property ownership through transparent and liquid tokenization <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
