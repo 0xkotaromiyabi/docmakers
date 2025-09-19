@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/Green Modern Badge Gardening Logo Design.svg').default,
     description: (
       <>
-        Makers memecah satu aset fisik (resort/villa) menjadi unit kepemilikan kecil berbasis Dynamic NFT (dNFT).
+        Makers divides a single physical asset (resort/villa) into smaller ownership units represented through Dynamic NFTs (dNFTs)..
       </>
     ),
   },
@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/profit.svg').default,
     description: (
       <>
-        Makers mengintegrasikan sistem distribusi keuntungan dari okupansi villa.
+        Makers integrates a profit distribution system derived from villa occupancy.
       </>
     ),
   },
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/profit.svg').default,
     description: (
       <>
-        Makers bukan hanya platform kepemilikan internal, tapi juga layanan tokenisasi aset bagi pengembang properti atau pemilik aset lain yang ingin mendigitalisasi dan membagi kepemilikan mereka.
+        Makers is not only an internal ownership platform but also an asset tokenization service for property developers or other asset owners seeking to digitize and fractionalize their holdings.
       </>
     ),
   },
